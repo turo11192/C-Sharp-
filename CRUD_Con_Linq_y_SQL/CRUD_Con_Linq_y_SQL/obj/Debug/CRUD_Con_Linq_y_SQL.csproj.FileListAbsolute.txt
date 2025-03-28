@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\bin\Debug\CRUD_Con_Linq_y_SQL.exe.config
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\bin\Debug\CRUD_Con_Linq_y_SQL.exe
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\bin\Debug\CRUD_Con_Linq_y_SQL.pdb
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\MainWindow.g.cs
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\App.g.cs
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL_MarkupCompile.cache
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL_MarkupCompile.lref
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\MainWindow.baml
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.g.resources
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.Properties.Resources.resources
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.exe
+C:\Users\artur\OneDrive\Escritorio\Programacion\C#\CRUD_Con_Linq_y_SQL\CRUD_Con_Linq_y_SQL\obj\Debug\CRUD_Con_Linq_y_SQL.pdb
